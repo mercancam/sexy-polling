@@ -1,9 +1,9 @@
 === Sexy Polling ===
 Contributors: 2glux
 Author: 2GLux
-Tags: polling, poll, polls, widget, post, posts, html, html5, css, css3
+Tags: booth, democracy, poll, polling, polls, survey, vote, shortcode, request, text, responsive, ajax, post, Posts, widget, shortcode, sidebar, html5, html, css, css3, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, content, simple, wordpress,  iPad, iphone, mobile, secure, seo, tablet
 Requires at least: 3.6
-Tested up to: 3.6
+Tested up to: 3.7.1
 Stable tag: 0.9.1
 
 Sexy Polling - Find out what your audience thinks!
