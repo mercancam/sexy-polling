@@ -63,7 +63,7 @@ Use it and be happy!
 
 == Changelog ==
 
-= V 0.9.1 - 01/10/2013 =
+= V 0.9.1 - 31/10/2013 =
 * Initial release
 
 == Screenshots == 
