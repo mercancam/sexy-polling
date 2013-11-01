@@ -20,7 +20,7 @@ Sexy Polling - Find out what your audience thinks!
 
 
 ### Features:
-* Votes progress feature - You can use timeline bar to see how users voted over time.
+* Votes progress feature - You can use timeline bar to see how users voted over time!
 * More then 10 beautiful skins.
 * Ajax based - no page reload.
 * Completely new checkbox selection effect, implemented special for SEXY extensions.
@@ -28,8 +28,8 @@ Sexy Polling - Find out what your audience thinks!
 * Set start and end dates.
 * Shows estimated time until poll starting.
 * Users can add their own answers.
-* Reset votes on certain answers.
 * Single/multiple voting (checkbox, radiobutton).
+* Reset votes on certain answers.
 * Set allowed count of checked options.
 * Set custom voting period. (Allow users to vote on certain poll once a day, or once an our ...).
 * Shows countdown timer and estimated time user can vote again.
