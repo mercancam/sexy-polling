@@ -1,7 +1,7 @@
 === Sexy Polling ===
 Contributors: 2glux
 Author: 2GLux
-Tags:  admin, aggregation, Aggregator, answer, article, blog, comments, community, content, controversy, cooperation, discussion, feed, feedback, management, marketing, media, network, News, opinion, politics, press, promotion, public, publishing, question, rate, rating, research, statistics, stats, syndication, view, vote, voting, booth, democracy, poll, polling, polls, survey, vote, shortcode, request, text, responsive, ajax, post, Posts, widget, shortcode, sidebar, html5, html, css, css3, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, content, simple, wordpress,  iPad, iphone, mobile, secure, seo, tablet
+Tags:  admin, aggregation, Aggregator, answer, article, blog, comments, community, content, controversy, cooperation, discussion, feed, feedback, management, marketing, media, network, News, opinion, politics, press, promotion, public, publishing, question, rate, rating, research, statistics, stats, syndication, view, vote, voting, booth, democracy, poll, polling, polls, survey, vote, shortcode, request, text, responsive, ajax, post, Posts, widget, shortcode, sidebar, html, css, css3, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, content, simple, wordpress,  iPad, iphone, mobile, secure, seo, tablet
 Requires at least: 3.6
 Tested up to: 3.7.1
 Stable tag: 0.9.1
@@ -33,18 +33,18 @@ Sexy Polling - Find out what your audience thinks!
 * Set allowed count of checked options.
 * Set custom voting period. (Allow users to vote on certain poll once a day, or once an our ...).
 * Shows countdown timer and estimated time user can vote again.
-* Set voting permissions, "add answer" permissions.
+* Set voting permissions, "add answer" permissions!
 * Hide results, if user not voted.
 * Very easy to install and configure.
 * A lot of stunning effects.
 
 ### PRO Features:
-* Unlimited polls
-* Unlimited answers
+* Unlimited polls.
+* Unlimited answers.
 * Voting statistics [See demo](http://2glux.com/projects/sexypolling/demo-statistics)
 * Countries statistics [See demo](http://2glux.com/projects/sexypolling/demo-statistics)
-* Multiple polls on same page
-* PRO support
+* Multiple polls on same page.
+* PRO support.
 
 ###IMPORTANT: If you think you found a bug in Sexy Polling or have any problem or question concerning it, do not hesitate to contact us at [info@2glux.com](mailto:info@2glux.com).
 
