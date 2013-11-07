@@ -67,3 +67,27 @@ Use it and be happy!
 * Initial release
 
 == Screenshots == 
+
+1. Gray template
+2. Gray template closed
+3. Template creator - main styles
+4. Template creator - answer bar styles
+5. Poll Options
+6. Answers Drag And Drop reordering
+7. PRO statistics
+8. CountDown timer - Estimated time before next vote
+9. Blue - Orange Temaplate
+10. Blue Temaplate 1
+11. Black Temaplate 1
+12. Blue Temaplate 2
+13. Green Temaplate
+14. Purple Temaplate
+15. Red Temaplate
+16. Lite Green Temaplate
+17. Orange Temaplate
+18. Lite Purple Temaplate
+19. Raver Temaplate
+
+
+
+
