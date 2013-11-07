@@ -28,7 +28,7 @@ function wpsxp_enqueue_front_scripts($poll_id) {
 	wp_enqueue_script('wpsxp-script2', plugin_dir_url( __FILE__ ) . 'assets/js/color.js', array('jquery','jquery-ui-core'));
 	wp_enqueue_script('wpsxp-script3', plugin_dir_url( __FILE__ ) . 'assets/js/countdown.js', array('jquery','jquery-ui-core'));
 	wp_enqueue_script('wpsxp-script4' . $poll_id, admin_url() . 'admin.php?page=sexypolling&act=wpsxp_submit_data&holder=generate_js&id_poll='.$poll_id.'&wpsxp_userRegistered='.$wpsxp_userRegistered, array('jquery'));
-	wp_enqueue_script('wpsxp-script5', plugin_dir_url( __FILE__ ) . 'assets/js/sexypolling.js', array('jquery','jquery-ui-core'));
+	wp_enqueue_script('wpsxp-script5', plugin_dir_url( __FILE__ ) . 'assets/js/sexypolling.js', array('jquery','jquery-ui-core','jquery-effects-core'));
 	
 }
 
