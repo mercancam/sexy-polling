@@ -318,6 +318,8 @@ select.polling_select1
 	cursor: pointer !important;
 	height: auto !important;
 	margin: 0 !important;
+	white-space: nowrap !important;
+	box-sizing: border-box !important;
 }
 select.polling_select2 {
 	float: right !important;
@@ -328,6 +330,8 @@ select.polling_select2 {
 	cursor: pointer !important;
 	height: auto !important;
 	margin: 0 !important;
+	white-space: nowrap !important;
+	box-sizing: border-box !important;
 }
 .timeline_select_wrapper .ui-slider {
 	clear: both !important; top: 10px !important;
