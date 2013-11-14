@@ -1,8 +1,18 @@
 <?php
 global $wpdb;
 
-add_action('template_redirect','wpsxp_my_shortcode_head');
+function wpsxp_sexypoll_shortcode_function( $atts ) {
+	extract( shortcode_atts( array(
+		'id' => 0,
+	), $atts ) );
+	
+	wpsxp_enqueue_front_scripts($id);
+	return wpsxp_render_poll($id);
+	
+}
+add_shortcode( 'sexypoll', 'wpsxp_sexypoll_shortcode_function' );
 
+//add_action('template_redirect','wpsxp_my_shortcode_head');
 function wpsxp_my_shortcode_head(){
 	global $posts;
 	global $wpsxp_token;
@@ -30,20 +40,6 @@ function wpsxp_enqueue_front_scripts($poll_id) {
 	wp_enqueue_script('wpsxp-script4' . $poll_id, admin_url() . 'admin.php?page=sexypolling&act=wpsxp_submit_data&holder=generate_js&id_poll='.$poll_id.'&wpsxp_userRegistered='.$wpsxp_userRegistered, array('jquery'));
 	wp_enqueue_script('wpsxp-script5', plugin_dir_url( __FILE__ ) . 'assets/js/sexypolling.js', array('jquery','jquery-ui-core','jquery-effects-core'));
 	
-}
-
-add_filter('the_content','wpsxp_render_sexycontactform');
-
-function wpsxp_render_sexycontactform($content) {
-	$c = preg_replace_callback('/(\[sexypoll id="([0-9]+)"\])/s','wpsxp_make_poll',$content);
-	return $c;
-	
-
-}
-
-function wpsxp_make_poll($m) {
-	$poll_id = (int) $m[2];
-	return wpsxp_render_poll($poll_id);
 }
 
 function wpsxp_render_poll($poll_id) {
