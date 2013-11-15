@@ -292,17 +292,16 @@
 	z-index: 100;
 	display: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.menu_tree_wrapper_inner ul li .option_item.last-element
+{
+	display: block;
+	text-decoration: none;
+	width: auto;
+	padding: 0 0 0 29px;
+	color: #505D6D;
+	
+	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-moz-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	-o-transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+	transition: background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
+}
