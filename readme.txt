@@ -63,6 +63,9 @@ Use it and be happy!
 
 == Changelog ==
 
+= V 0.9.2 - 14/11/2013 =
+* Shortcode corrections
+
 = V 0.9.1 - 31/10/2013 =
 * Initial release
 
