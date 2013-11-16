@@ -294,10 +294,8 @@
 }
 .menu_tree_wrapper_inner ul li .option_item.last-element
 {
-	display: block;
-	text-decoration: none;
-	width: auto;
-	padding: 0 0 0 29px;
+	background-color: #D7DBE2;
+	border: 1px solid #7c7c6e;x;
 	color: #505D6D;
 	
 	-webkit-transition:  background linear 0.2s, background-color linear 0.2s, box-shadow linear 0.2s, border linear 0.2s;
