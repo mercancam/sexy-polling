@@ -4,7 +4,7 @@ Author: 2GLux
 Tags:  admin, animation, effect, effects, aggregation, Aggregator, answer, article, blog, comments, community, content, controversy, cooperation, discussion, feed, feedback, management, marketing, media, network, News, opinion, politics, press, promotion, public, publishing, question, rate, rating, research, statistics, stats, syndication, view, vote, voting, booth, democracy, poll, polling, polls, survey, vote, shortcode, request, text, responsive, ajax, post, Posts, widget, shortcode, sidebar, html, css, css3, network, social, society, text, javascript, jquery, plugin, plugins, page, pages, content, simple, wordpress,  iPad, iphone, mobile, secure, seo, tablet
 Requires at least: 3.6
 Tested up to: 3.7.1
-Stable tag: 0.9.2
+Stable tag: 0.9.3
 
 Sexy Polling - Find out what your audience thinks!
 
