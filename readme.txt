@@ -33,8 +33,8 @@ Sexy Polling - Find out what your audience thinks!
 * Set allowed count of checked options.
 * Set custom voting period. (Allow users to vote on certain poll once a day, or once an our ...).
 * Shows countdown timer and estimated time user can vote again.
-* Set voting permissions, "add answer" permissions!
 * Hide results, if user not voted.
+* Set voting permissions, "add answer" permissions!
 * Very easy to install and configure.
 * A lot of stunning effects.
 
